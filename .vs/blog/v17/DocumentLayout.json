@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\magnolia.hiller\\source\\repos\\blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{774F3D12-8F61-4440-9B6F-63482AEA4427}|blog\\blog.csproj|c:\\users\\magnolia.hiller\\source\\repos\\blog\\blog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774F3D12-8F61-4440-9B6F-63482AEA4427}|blog\\blog.csproj|solutionrelative:blog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774F3D12-8F61-4440-9B6F-63482AEA4427}|blog\\blog.csproj|c:\\users\\magnolia.hiller\\source\\repos\\blog\\blog\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774F3D12-8F61-4440-9B6F-63482AEA4427}|blog\\blog.csproj|solutionrelative:blog\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\magnolia.hiller\\source\\repos\\blog\\blog\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "blog\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\magnolia.hiller\\source\\repos\\blog\\blog\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "blog\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:56:49.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\magnolia.hiller\\source\\repos\\blog\\blog\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "blog\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\magnolia.hiller\\source\\repos\\blog\\blog\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "blog\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:11:39.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
